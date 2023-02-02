@@ -8,7 +8,7 @@
 
 ## FULLSTACK PRACTICE PROJECT NO: 16
 
-1. A fullstack version of my previous frontend project to practice my skills using Javascript, NodeJS, ExpressJS, HTML, CSS.
+1. A fullstack version of my previous frontend project to practice my skills using Javascript, Jquery, NodeJS, ExpressJS, HTML, CSS.
 
 2. There are several games seperated as PS and PC games.
 
